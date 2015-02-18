@@ -1,0 +1,9 @@
++ls - List all documents in current folder
++pwd - print working directory
++cd - change directory
++less - program for reading files
++mv - moves, or renames, a file or directory
++cp - copies file or directory
++rm - removes file or directory
++mkdir - make directory
++whoami - which user you are signed in as
